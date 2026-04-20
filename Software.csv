@@ -1,0 +1,407 @@
+﻿Name,Description,ID,Category,Source
+7-ZIP,File archiver,7zip.7zip,Archiver,winget
+7-ZIP,File archiver,7zip,Archiver,scoop
+AbiWord,Word processor,AbiSource.AbiWord,Office,winget
+ack,,ack,other,scoop
+Adobe Creative Cloud,,Adobe.CreativeCloud,Utility,winget
+Adobe Photoshop Express,,9WZDNCRFJ27N,Viewer/Editor,winget
+Adobe Reader x64,,Adobe.Acrobat.Reader.64-bit,Viewer/Editor,winget
+AdoptOpenJDK 17,,AdoptOpenJDK.OpenJDK.17,Runtime,winget
+Advanced IP Scanner,,Famatech.AdvancedIPScanner,Utility,winget
+Ag,,Ag,other,scoop
+AIMP,Audio player,AIMP.AIMP,Audio Player,winget
+AkelPad,,AkelPad.AkelPad,Editor,winget
+Amazon Corretto JRE 8,,Amazon.Corretto.8.JRE,Runtime,winget
+Ant Renamer,File renamer,AntSoftware.AntRenamer,Utility,winget
+aria2,Lightweight multi-protocol & multi-source command-line download utility,aria2.aria2,Torrent,winget
+Audacious,Advanced audio player,Audacious.MediaPlayer,Audio Player,winget
+Audacity,Audio editor / recorder,Audacity.Audacity,Audio Player,winget
+AutoHotkey,Scripting language,autohotkey,Development,scoop
+Avast Free Antivirus,Antivirus,XPDNZJFNCR1B07,Security,winget
+AVG Free AntiVirus,Antivirus,XP8BX2DWV7TF50,Security,winget
+Avidemux,Non-linear video editing and transcoding multimedia files,Avidemux.Avidemux,Editor,winget
+Avira Free Security,,XPFD23M0L795KD,Security,winget
+Balena Etcher,Flash OS images to SD cards & USB drives,Balena.Etcher,Utility,winget
+Bandizip,File archiver,Bandisoft.Bandizip,Archiver,winget
+Bandizip,File archiver,bandzip,Archiver,scoop
+bat,,bat,other,scoop
+Beyond Compare,"Compare files, folders, archives",beyondcompare,Utility,scoop
+BiglyBT,,BiglySoftware.BiglyBT,Torrent,winget
+BitDefender,,Bitdefender.Bitdefender,Security,winget
+BleachBit,,BleachBit.BleachBit,Utility,winget
+Blender,,BlenderFoundation.Blender,Viewer/Editor,winget
+BlueJ,Java Development Environment,BlueJTeam.BlueJ,Development,winget
+BlueStacks,Android emulator,BlueStack.BlueStacks,Emulator,winget
+Box,,Box.Box,Cloud Storage,winget
+Brave,,brave,Browser,scoop
+Caesium Image Compressor,,SaeraSoft.CaesiumImageCompressor,Viewer/Editor,winget
+Caffeine,Keep your device awake,caffeine,Utility,scoop
+calibre-normal,,calibre-normal,other,scoop
+CCleaner,System cleaners,Piriform.CCleaner,Utility,winget
+Chocolatey GUI,Chocolatey GUI,Chocolatey.ChocolateyGUI,Package Manager,winget
+chromium,,chromium,other,scoop
+ClamWin Free AntiVirus,,ClamWin.ClamWin,Security,winget
+CMake,,cmake,Development,scoop
+CMake-RC,,cmake-rc,Development,scoop
+CodeBlocks,,Codeblocks.Codeblocks,Development,winget
+CopyQ,Clipboard manager,hluk.CopyQ,Clipboard,winget
+CopyQ,Clipboard manager,copyq,Clipboard,scoop
+Cppcheck,,Cppcheck.Cppcheck,Development,winget
+CPUID CPU-Z,,CPUID.CPU-Z,Utility,winget
+cURL,,cURL.cURL,Utility,winget
+CutePDF,,AcroSoftwareInc.CutePDFWriter,Viewer/Editor,winget
+DB Browser for SQLite,,DBBrowserForSQLite.DBBrowserForSQLite,Development,winget
+Deezer,,Deezer.Deezer,Streaming,winget
+DefenderUI,,VoodooSoft.DefenderUI,Security,winget
+Discord,,Discord.Discord,Chat,winget
+ditto,,ditto,other,scoop
+dnGREP,,dnGrep.dnGrep,Utility,winget
+dnSpyEx,debugger and .NET assembly editor ,dnSpyEx.dnSpy,Development,winget
+Dolphin,Nintendo GameCube and Nintendo Wii emulator,DolphinEmulator.Dolphin,Emulator,winget
+draw.io,,JGraph.Draw,Viewer/Editor,winget
+Dropbox,,Dropbox.Dropbox,Cloud Storage,winget
+dropit,,dropit,other,scoop
+Electronic Arts,Gaming platform,ElectronicArts.EADesktop,Games,winget
+Elk,,Elk.Elk,Utility,winget
+Epic Games Launcher,Gaming platform,EpicGames.EpicGamesLauncher,Games,winget
+Eraser,,Eraser.Eraser,Security,winget
+ESET Endpoint Antivirus,,ESET.EndpointAntivirus,Security,winget
+Evernote,,Evernote.Evernote,Utility,winget
+Everything,Find files and folders,voidtools.Everything,Utility,winget
+Everything,Find files and folders,everything,Utility,scoop
+ExifTool,,OliverBetz.ExifTool,Utility,winget
+Facebook,,9WZDNCRFJ2WL,Social Platform,winget
+Facebook Messenger,,9WZDNCRF0083,Social Platform,winget
+FastStone Image Viewer,,FastStone.Viewer,Viewer/Editor,winget
+Fedistar,,h3poteto.fedistar,Utility,winget
+FFmpeg,,Gyan.FFmpeg,CODEC,winget
+File Shredder,,PowTools.FileShredder,Security,winget
+FileCloud,,9WZDNCRDS373,Cloud Storage,winget
+foobar2000,Audio player,PeterPawlowski.foobar2000,Audio Player,winget
+fork,,fork,other,scoop
+Foxit Reader,,Foxit.FoxitReader,Viewer/Editor,winget
+Free Pascal Compiler,Pascal compiler,FreePascal.FreePascalCompiler,Development,winget
+FreeBASIC,Cross-platform BASIC compiler,FreeBASIC.FreeBASIC,Development,winget
+FreeCAD,,FreeCAD.FreeCAD,Viewer/Editor,winget
+Frhed,,RKibria.frhed,Editor,winget
+fzf,,fzf,other,scoop
+gdrive,,gdrive,other,scoop
+Geany,,Geany.Geany,Editor,winget
+Geek Uninstaller,,GeekUninstaller.GeekUninstaller,Uninstaller,winget
+GIMP,,GIMP.GIMP,Viewer/Editor,winget
+git,,git,Utility,scoop
+git,,Git.Git,Development,winget
+gitkraken,,gitkraken,other,scoop
+Glary Utilities,Glary Utilities,Glarysoft.GlaryUtilities,Utility,winget
+Gnome Dia,,gnome.Dia,Viewer/Editor,winget
+GNU Gpg4win,,GnuPG.Gpg4win,Security,winget
+GNU Privacy Guard,,GnuPG.GnuPG,Security,winget
+GNU Wget2,,GNU.Wget2,Utility,winget
+GOM Player,,GOMLab.GOMPlayer,Media Player,winget
+Google Chrome,,Google.Chrome,Browser,winget
+Google Chrome,,Google.Chrome.EXE ,Browser,winget
+Google Drive,,Google.GoogleDrive,Cloud Storage,winget
+Google Earth Pro,,Google.EarthPro,other,winget
+graphviz,,graphviz,other,scoop
+Greenshot,,Greenshot.Greenshot,Viewer/Editor,winget
+grepWin,,StefansTools.grepWin,Utility,winget
+guinget,winget GUI,DrewNaylor.guinget,Package Manager,winget
+HakuNeko Desktop,,HakuNeko.HakuNeko,Anime/Manga,winget
+HakuNeko Desktop Nightly,,HakuNeko.HakuNeko.Nightly,Anime/Manga,winget
+Halloy,,squidowl.halloy,IRC,winget
+HandBrake,,HandBrake.HandBrake,Media Player,winget
+HexChat,IRC client based on XChat,HexChat.HexChat,IRC,winget
+IceChat,open source IRC Client,IceChat.IceChat,IRC,winget
+iCloud,,9PKTQ5699M62,Cloud Storage,winget
+IcoFX,,IcoFXSoftware.icofx,Viewer/Editor,winget
+ImgBurn,,LIGHTNINGUK.ImgBurn,Burner,winget
+InfraRecorder,,ChristianKindahl.InfraRecorder,Burner,winget
+Inkscape,,Inkscape.Inkscape,Viewer/Editor,winget
+Inno Setup,,JRSoftware.InnoSetup,Utility,winget
+Instagram,,9NBLGGH5L9XT,Social Platform,winget
+Instant Eyedropper,,Spicebrains.Instant-Eyedropper,Utility,winget
+IrfanView,,IrfanSkiljan.IrfanView,Viewer/Editor,winget
+iTunes,,Apple.iTunes,Audio Player,winget
+IZArc,,IZArc.IZArc,Archiver,winget
+Java Runtime Environment ,,Oracle.JavaRuntimeEnvironment,Runtime,winget
+JetBrains CLion,Cross-platform C/C++ IDE,JetBrains.CLion,Development,winget
+JetBrains DataGrip,Cross-platform SQL IDE,JetBrains.DataGrip,Development,winget
+JetBrains IntelliJ IDEA Ultimate,Java and Kotlin IDE,JetBrains.IntelliJIDEA.Ultimate,Development,winget
+JetBrains PhpStorm,PHP IDE,JetBrains.PhpStorm,Development,winget
+JetBrains PyCharm,Python & Django IDE,JetBrains.PyCharm,Development,winget
+JetBrains ReSharper,Visual Studio Extension for .NET Developers,JetBrains.ReSharper,Development,winget
+JetBrains Rider,"Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux",JetBrains.Rider,Development,winget
+JetBrains RubyMine,Cross-platform Ruby on Rails IDE,JetBrains.RubyMine,Development,winget
+JetBrains RustRover,Cross-platform Rust IDE,JetBrains.RustRover,Development,winget
+JetBrains WebStorm,JavaScript IDE,JetBrains.WebStorm,Development,winget
+Joplin,,Joplin.Joplin,Utility,winget
+JPEGView,,sylikc.JPEGView,Viewer/Editor,winget
+Kahla,,Aiursoft.Kahla,Messaging,winget
+KDE Falkon,,KDE.Falkon,Browser,winget
+Kdenlive,,KDE.Kdenlive,Media Player,winget
+KeePassXC Password Manager,,XP8K2L36VP0QMB,Security,winget
+keypirinha,,keypirinha,other,scoop
+K-Lite Codec Pack Full,,CodecGuide.K-LiteCodecPack.Full,Media Player,winget
+K-Meleon,,kmeleonbrowser.K-Meleon,Browser,winget
+Krita,,KDE.Krita,Viewer/Editor,winget
+Launchy,,CodeJelly.Launchy,Customizer/Tweaker,winget
+Lazarus,Cross-platform IDE for Delphi Rapid Application Development,Lazarus.Lazarus,Development,winget
+lepton,,lepton,other,scoop
+less,,less,other,scoop
+lessmsi,view and extract the contents of an Windows Installer (.msi) file,activescott.lessmsi,Utility,winget
+LibreCAD,,LibreCAD.LibreCAD,Viewer/Editor,winget
+LibreOffice,,TheDocumentFoundation.LibreOffice,Office,winget
+LibreOffice LTS,,TheDocumentFoundation.LibreOffice.LTS,Office,winget
+LibreWolf,,LibreWolf.LibreWolf,Browser,winget
+LINE,,XP99J3KP4XZ4VV,Messaging,winget
+LinkedIn,,9WZDNCRFJ4Q7,Social Platform,winget
+Links,,TwibrightLabs.Links,Browser,winget
+listen1desktop,,listen1desktop,other,scoop
+llvm,,llvm,other,scoop
+LockHunter,,CrystalRich.LockHunter,Utility,winget
+Lua JLS,"Lua 5.4, modules and JLS APIs",JavaLikeScript.LuaJLS,Development,winget
+Malwarebytes Free Antivirus,,Malwarebytes.Malwarebytes,Security,winget
+Malwarebytes Windows Firewall Control,,BiniSoft.WindowsFirewallControl,Security,winget
+Maxthon,,Maxthon.Maxthon,Browser,winget
+McAfee Personal Security,,9N1SQW2NKPDS,Security,winget
+MediaInfo GUI,,MediaArea.MediaInfo.GUI,Media Player,winget
+MEGAsync,,Mega.MEGASync,Cloud Storage,winget
+MEGAsync,,megasync,Cloud Storage,scoop
+Microsoft .NET Windows Desktop Runtime 8.0,,Microsoft.DotNet.DesktopRuntime.8,Runtime,winget
+Microsoft 365 Apps for enterprise,,Microsoft.Office,Utility,winget
+Microsoft App Installer,,Microsoft.AppInstaller,other,winget
+Microsoft Defender,,9P6PMZTM93LR,Security,winget
+Microsoft Dev Home,,Microsoft.DevHome,Utility,winget
+Microsoft Edge,,Microsoft.Edge,Browser,winget
+Microsoft NuGet,package manager for .NET,Microsoft.NuGet,Package Manager,winget
+Microsoft ODBC Driver 17 for SQL Server,,Microsoft.msodbcsql.17,Runtime,winget
+Microsoft OneDrive,,Microsoft.OneDrive,Cloud Storage,winget
+Microsoft PowerShell,,Microsoft.PowerShell,Development,winget
+Microsoft PowerToys,,Microsoft.PowerToys,Utility,winget
+Microsoft System CLR Types for SQL Server 2019,,Microsoft.CLRTypesSQLServer.2019,Utility,winget
+Microsoft Teams,,Microsoft.Teams,Chat,winget
+Microsoft Teams (Personal),,Microsoft.Teams.Free,Chat,winget
+Microsoft Visual C++ 2008 Redistributable x64,,Microsoft.VCRedist.2008.x64,Runtime,winget
+Microsoft Visual C++ 2008 Redistributable x86,,Microsoft.VCRedist.2008.x86,Runtime,winget
+Microsoft Visual C++ 2010 Redistributable x64,,Microsoft.VCRedist.2010.x64,Runtime,winget
+Microsoft Visual C++ 2010 Redistributable x86,,Microsoft.VCRedist.2010.x86,Runtime,winget
+Microsoft Visual C++ 2012 Redistributable x64,,Microsoft.VCRedist.2012.x64,Runtime,winget
+Microsoft Visual C++ 2013 Redistributable x64,,Microsoft.VCRedist.2013.x64,Runtime,winget
+Microsoft Visual C++ 2013 Redistributable x86,,Microsoft.VCRedist.2013.x86,Runtime,winget
+Microsoft Visual C++ 2015-2022 Redistributable x64,,Microsoft.VCRedist.2015+.x64,Runtime,winget
+Microsoft Visual C++ 2015-2022 Redistributable x86,,Microsoft.VCRedist.2015+.x86,Runtime,winget
+Microsoft Visual Studio Code,,Microsoft.VisualStudioCode,Development,winget
+Microsoft Visual Studio Community 2022,,Microsoft.VisualStudio.2022.Community,Development,winget
+Microsoft Web Deploy,,Microsoft.WebDeploy,Runtime,winget
+Microsoft Windows Terminal,,Microsoft.WindowsTerminal,Utility,winget
+Microsoft XNA Framework,,Microsoft.XNARedist,Runtime,winget
+mIRC,,mIRC.mIRC,IRC,winget
+MKVToolNix,,MoritzBunkus.MKVToolNix,Media Player,winget
+Motrix,,agalwood.Motrix,Torrent,winget
+Mozilla Firefox,,Mozilla.Firefox,Browser,winget
+Mozilla Firefox,,firefox,Browser,scoop
+Mozilla Firefox ESR,,Mozilla.Firefox.ESR,Browser,winget
+Mp3tag,,Mp3tag.Mp3tag,Audio Player,winget
+MPC-HC,,clsid2.mpc-hc,Media Player,winget
+MusicBee,,MusicBee.MusicBee,Audio Player,winget
+NanaZip,,M2Team.NanaZip,Archiver,winget
+nano,,nano,Editor,choco
+nano,,nano,Editor,scoop
+NCSoft Purple,Gaming platform,NCSoft.Purple,Games,winget
+NeoVim,Hyperextensible Vim-based text editor,neovim,Editor,scoop
+Netflix,,9WZDNCRFJ3TJ,Streaming,winget
+Netsoft Hubstaff,Time Tracking and Productivity Monitoring Tool,Netsoft.Hubstaff,Utility,winget
+Nexus Terminal,SSH / RDP / VNC client,Heavrnl.NexusTerminal,Terminal,winget
+Nilesoft Shell,,Nilesoft.Shell,Utility,winget
+NirSoft Advanced Run,,NirSoft.AdvancedRun,Tools,winget
+NirSoft Alternate Stream View ,"Scan your NTFS drive, and find all 
+hidden alternate streams stored in the file system",NirSoft.AlternateStreamView,Tools,winget
+NirSoft App Crash View,Display the details of all application crashes occurred in your system,NirSoft.AppCrashView,Tools,winget
+NirSoft App Read Write Counter,"Counts and displays the current file read / write operations of every 
+application running on your system",NirSoft.AppReadWriteCounter,Tools,winget
+NirSoft BlueScreen View,,NirSoft.BlueScreenView,Utility,winget
+NirSoft Chrome Cache View,,NirSoft.ChromeCacheView,Tools,winget
+NirSoft CSV File View,,NirSoft.CSVFileView,Tools,winget
+NirSoft DNS Lookup View,,NirSoft.DNSLookupView,Tools,winget
+NirSoft Down Tester,,NirSoft.DownTester,Tools,winget
+NirSoft Full Event Log View,,NirSoft.FullEventLogView,Tools,winget
+NirSoft GUI Prop View,Displays extensive information about all windows currently opened on your system,NirSoft.GUIPropView,Tools,winget
+NirSoft Hash My Files,,NirSoft.HashMyFiles,Tools,winget
+NirSoft Inside Clipboard,,NirSoft.InsideClipboard,Tools,winget
+NirSoft Installed Drivers List,,NirSoft.InstalledDriversList,Tools,winget
+NirSoft Installed Packages View,,NirSoft.InstalledPackagesView,Tools,winget
+NirSoft IP Net Info,,NirSoft.IPNetInfo,Tools,winget
+NirSoft Last Activity View,,NirSoft.LastActivityView,Tools,winget
+NirSoft NetB Scanner,,NirSoft.NetBScanner,Tools,winget
+NirSoft NetRouteView,,NirSoft.NetRouteView,Tools,winget
+NirSoft Network Interfaces View,,NirSoft.NetworkInterfacesView,Tools,winget
+NirSoft Network Opened Files,,NirSoft.NetworkOpenedFiles,Tools,winget
+NirSoft Network Usage View,,NirSoft.NetworkUsageView,Tools,winget
+NirSoft NirCmd,,NirSoft.NirCmd,Tools,winget
+NirSoft NK2Edit,,NirSoft.NK2Edit,Tools,winget
+NirSoft Opened Files View,,NirSoft.OpenedFilesView,Tools,winget
+NirSoft Resources Extract,,NirSoft.ResourcesExtract,Tools,winget
+NirSoft Search My Files,,NirSoft.SearchMyFiles,Tools,winget
+NirSoft ShellEx View,,NirSoft.ShellExView,Tools,winget
+NirSoft Simple Program Debugger,,NirSoft.SimpleProgramDebugger,Tools,winget
+NirSoft Sound Volume View,,NirSoft.SoundVolumeView,Tools,winget
+NirSoft Tcp Log View,,NirSoft.TcpLogView,Tools,winget
+NirSoft Turned On Times View,,NirSoft.TurnedOnTimesView,Tools,winget
+NirSoft UninstallView,,NirSoft.UninstallView,Tools,winget
+NirSoft USB Log View,,NirSoft.USBLogView,Tools,winget
+NirSoft Video Cache View,,NirSoft.VideoCacheView,Tools,winget
+NirSoft Volumouse,,NirSoft.Volumouse,Tools,winget
+NirSoft Wake Me On Lan,,NirSoft.WakeMeOnLan,Tools,winget
+NirSoft What Is Hang,,NirSoft.WhatIsHang,Tools,winget
+NirSoft WhoisThisDomain,,NirSoft.WhoisThisDomain,Tools,winget
+NirSoft WIFI Info View,,NirSoft.WifiInfoView,Tools,winget
+NirSoft Wireless Network Watcher,,NirSoft.WirelessNetworkWatcher,Tools,winget
+nodejs,,nodejs,other,scoop
+Notepad++,,Notepad++.Notepad++,Editor,winget
+Notepad2,,zufuliu.notepad2,Editor,winget
+Nushell,,nushell,Shell,winget
+Nushell,,nushell,Shell,choco
+Nushell,,nushell,Shell,scoop
+O&O ShutUp10++,,OO-Software.ShutUp10,Security,winget
+OBS Studio,,OBSProject.OBSStudio,Media Player,winget
+Oculus,Gaming platform,Meta.Oculus,Games,winget
+oh-my-posh,,oh-my-posh,other,scoop
+OpenJDK JRE 17,,ojdkbuild.openjdk.17.jre,Runtime,winget
+OpenOffice,,Apache.OpenOffice,Office,winget
+Open-Shell,,Open-Shell.Open-Shell-Menu,Customizer/Tweaker,winget
+OpenShot Video Editor,,OpenShot.OpenShot,Media Player,winget
+OpenVPN Connect,,OpenVPNTechnologies.OpenVPNConnect,VPN,winget
+Opera,,Opera.Opera,Browser,winget
+Oracle JDK 22,,Oracle.JDK.22,Runtime,winget
+Otter,,OtterBrowserTeam.OtterBrowser,Browser,winget
+Paint.NET,,dotPDN.PaintDotNet,Viewer/Editor,winget
+pandoc,,pandoc,other,scoop
+pCloud,,pCloudAG.pCloudDrive,Cloud Storage,winget
+PDF Printer,,Bullzip.PDFPrinter,Utility,winget
+PeaZip,,Giorgiotani.Peazip,Archiver,winget
+Perl,,perl,other,scoop
+PHP 8.4,,PHP.PHP.8.4,Development,winget
+picgo,,picgo,other,scoop
+Pidgin,,XP99J3KP4XZ4VV,E-Mail Client,winget
+Pinterest,,9PFHDSF91B9R,Utility,winget
+Playpark Downloader,Gaming platform,AsiasoftOnline.PlayparkDownloader,Games,winget
+postman,,postman,other,scoop
+PotPlayer,,PotPlayer,other,scoop
+powertoys,,powertoys,other,scoop
+Prowlarr,,TeamProwlarr.Prowlarr,Torrent,winget
+PuTTY,,PuTTY.PuTTY,Utility,winget
+Python,,python,Development,scoop
+Python 2,,Python.Python.2,Development,winget
+Python 2.7,,python27,Development,scoop
+Python 3.9,,Python.Python.3.9,Development,winget
+Qalculate,,Qalculate.Qalculate,Utility,winget
+qBittorrent,,qBittorrent.qBittorrent,Torrent,winget
+Q-Eye,,9NBLGGH65THN,Development,winget
+QMMP,,QmmpDevelopmentTeam.qmmp,Audio Player,winget
+QuasselIRC,,Quassel.QuasselIRC,IRC,winget
+Radarr,,TeamRadarr.Radarr,Torrent,winget
+Raspberry Pi Imager,,RaspberryPiFoundation.RaspberryPiImager,Boot Media,winget
+RealVNC Server,,RealVNC.VNCServer,VNC,winget
+RealVNC Viewer,,RealVNC.VNCViewer,VNC,winget
+rescuetime,,rescuetime,other,scoop
+Resource Hacker,,AngusJohnson.ResourceHacker,Customizer/Tweaker,winget
+Revo Uninstaller,,RevoUninstaller.RevoUninstaller,Uninstaller,winget
+ripgrep,,ripgrep,other,scoop
+Rubberduck,open-source COM add-in project that integrates with the Visual Basic Editor to add modern-day features to the familiar IDE,Rubberduck.Rubberduck,Development,winget
+ruby,,ruby,other,scoop
+Rufus,,Rufus.Rufus,Boot Media,winget
+rustup,,rustup,other,scoop
+Scoop-Search,,main/scoop-search,Utility,scoop
+ScreenToGif,,NickeManarin.ScreenToGif,Viewer/Editor,winget
+Seanime Desktop,,5rahim.Seanime,Anime/Manga,winget
+ShareFile,,ShareFile.ShareFileForWindows,Cloud Storage,winget
+ShareX,,ShareX.ShareX,Screen Capture,winget
+ShareX,,sharex,Screen Capture,scoop
+sharpkeys,,sharpkeys,other,scoop
+Shotcut,,Meltytech.Shotcut,Media Player,winget
+Skype,,9WZDNCRFJ364,Messaging,winget
+Smart Defrag,Fast & Deep Defrag to Optimize Hard Drive & PC Performance,IObit.SmartDefrag,Utility,winget
+SMPlayer,,SMPlayer.SMPlayer,Media Player,winget
+Snapchat,,9PF9RTKMMQ69,Social Platform,winget
+Sonarr,,TeamSonarr.Sonarr,Torrent,winget
+Sophia Script,PowerShell module,TeamSophia.SophiaScript,Development,winget
+Spotify,,Spotify.Spotify,Streaming,winget
+Spotify,,spotify,Streaming,scoop
+SQLiteStudio,,sqlitestudio.pl.SQLiteStudio,Development,winget
+Steam,Gaming platform,Valve.Steam,Games,winget
+Steam,Gaming platform,steam,Games,scoop
+Stremio,,Stremio.Stremio,Media Player,winget
+sublime-merge,,sublime-merge,other,scoop
+SumatraPDF,,SumatraPDF.SumatraPDF,Viewer/Editor,winget
+SumatraPDF,,sumatrapdf,Viewer/Editor,scoop
+SyncTrayzor,,SyncTrayzor.SyncTrayzor,Cloud Storage,winget
+SyncTrayzor,,SyncTrayzor,Cloud Storage,scoop
+Tailscale,,tailscale.tailscale,VPN,winget
+TeamIDE,"database: MySql, Oracle, Kingbase, DM, Shentong, tools: SSH, FTP, Redis, Zookeeper, Kafka and Elasticsearch",TeamIDE.TeamIDE,Development,winget
+TeamViewer,,TeamViewer.TeamViewer,Remote,winget
+TeamViewer Host,,TeamViewer.TeamViewer.Host,Remote,winget
+TechPowerUp GPU-Z,,TechPowerUp.GPU-Z,Utility,winget
+Telegram,,Telegram.TelegramDesktop,Messaging,winget
+Telegram,,telegram,Messaging,scoop
+TeraCopy,,CodeSector.TeraCopy,Utility,winget
+terminus,,terminus,other,scoop
+Termora,,TermoraDev.Termora,Utility,winget
+TheiaIDE,Eclipse IDE based on the Theia platform,EclipseFoundation.TheiaIDE,Development,winget
+Threads,,9MXBP1FB84CQ,Social Platform,winget
+Thunderbird,,Mozilla.Thunderbird,E-Mail Client,winget
+TikTok,,9NH2GPH4JZS4,Social Platform,winget
+Tixati,,Tixati.Tixati.Portable,Torrent,winget
+Total Commander,,Ghisler.TotalCommander,File Manager,winget
+Transmission,,Transmission.Transmission,Torrent,winget
+Trillian,,Trillian.Trillian,Messaging,winget
+Twitter,,XP99J3KP4XZ4VV,Social Platform,winget
+typora,,typora,other,scoop
+Ubisoft Connect,Gaming platform,Ubisoft.Connect,Games,winget
+uGet,uGet is a lightweight yet powerful Open Source download manager for Windows,uGetdm.uGet,Package Manager,winget
+UNetbootin,,unetbootin.unetbootin,Boot Media,winget
+UniGetUI,,MartiCliment.UniGetUI,Package Manager,winget
+UniversalForwarder,,Splunk.UniversalForwarder,Utility,winget
+VeraCrypt,Disk encryption,IDRIX.VeraCrypt,Security,winget
+Viber,,XPFM5P5KDWF0JP,Messaging,winget
+vim,,vim.vim,Editor,winget
+vim,,vim,Editor,choco
+vim,,vim,Editor,scoop
+VirtualBox,,Oracle.VirtualBox,Virtualization,winget
+VLC media player,,VideoLAN.VLC,Media Player,winget
+vnote,,vnote,other,scoop
+vscode,,vscode,other,scoop
+Walk,terminal navigator,antonmedv.walk,Terminal,winget
+Warp,,Warp.Warp,Terminal,winget
+Wave,,CommandLine.Wave,Terminal,winget
+weasel,,weasel,other,scoop
+WebKitty,,YikuanSun.WebKitty,Development,winget
+WeChat,,XP99J3KP4XZ4VV,Messaging,winget
+Whalebird,,h3poteto.whalebird-desktop,E-Mail Client,winget
+WhatsApp,,WhatsApp.WhatsApp,Messaging,winget
+Winamp,,Winamp.Winamp,Audio Player,winget
+WinDbg,,Microsoft.WinDbg,Utility,winget
+WinDirStat,,WinDirStat.WinDirStat,Utility,winget
+winLAME,,vividos.winLAME,Audio Player,winget
+WinMerge,,WinMerge.WinMerge,Utility,winget
+WinRAR,,RARLab.WinRAR,Archiver,winget
+WinSCP,,WinSCP.WinSCP,Utility,winget
+WinScript,,flick9000.WinScript,Development,winget
+WinZip,,Corel.WinZip,Archiver,winget
+Wireshark,,WiresharkFoundation.Wireshark,Utility,winget
+Stratoshark,,WiresharkFoundation.Stratoshark,Utility,winget
+WizTree,,AntibodySoftware.WizTree,Utility,winget
+wiztree,,wiztree,other,scoop
+workflowy,,workflowy,other,scoop
+WSA PacMan,GUI package manager and package installer for Windows Subsystem for Android (WSA),alesimula.wsa_pacman,Package Manager,winget
+XAMPP 8.2,,ApacheFriends.Xampp.8.2,Development,winget
+xemu,Xbox Emulator,xemu-project.xemu,Emulator,winget
+XnView,,XnSoft.XnView.Classic,Viewer/Editor,winget
+Yarn,,Yarn.Yarn,Package Manager,winget
+yt-dlg,,yt-dlg.yt-dlg,Media Player,winget
+yt-dlp,,yt-dlp.yt-dlp,Media Player,winget
+Yumi UEFI,,YumiUsb.UEFI,Boot Media,winget
+zeal,,zeal,other,scoop
+Zen Browser,,Zen-Team.Zen-Browser,Browser,winget
+ZeusIDE,,Xidicone.ZeusIDE,Development,winget
+Zint Barcode Studio,,Zint.Zint,Utility,winget
+Zoom Workplace,,XP99J3KP4XZ4VV,Messaging,winget

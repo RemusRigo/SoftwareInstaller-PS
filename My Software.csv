@@ -1,0 +1,108 @@
+﻿Name,Description,ID,Category,Source
+7-ZIP,File archiver,7zip.7zip,Archiver,winget
+Adobe Creative Cloud,,Adobe.CreativeCloud,Utility,winget
+Adobe Reader x64,,Adobe.Acrobat.Reader.64-bit,Viewer/Editor,winget
+Avast Free Antivirus,Antivirus,XPDNZJFNCR1B07,Security,winget
+AVG Free AntiVirus,Antivirus,XP8BX2DWV7TF50,Security,winget
+Avira Free Security,,XPFD23M0L795KD,Security,winget
+BitDefender,,Bitdefender.Bitdefender,Security,winget
+Box,,Box.Box,Cloud Storage,winget
+CCleaner,System cleaners,Piriform.CCleaner,Utility,winget
+Epic Games Launcher,Gaming platform,EpicGames.EpicGamesLauncher,Games,winget
+ESET Endpoint Antivirus,,ESET.EndpointAntivirus,Security,winget
+Foxit Reader,,Foxit.FoxitReader,Viewer/Editor,winget
+Google Chrome,,Google.Chrome,Browser,winget
+git,,Git.Git,Development,winget
+Google Drive,,Google.GoogleDrive,Cloud Storage,winget
+iTunes,,Apple.iTunes,Audio Player,winget
+Java Runtime Environment ,,Oracle.JavaRuntimeEnvironment,Runtime,winget
+Malwarebytes Free Antivirus,,Malwarebytes.Malwarebytes,Security,winget
+Malwarebytes Windows Firewall Control,,BiniSoft.WindowsFirewallControl,Security,winget
+McAfee Personal Security,,9N1SQW2NKPDS,Security,winget
+Microsoft 365 Apps for enterprise,,Microsoft.Office,Utility,winget
+Microsoft OneDrive,,Microsoft.OneDrive,Cloud Storage,winget
+Microsoft PowerShell,,Microsoft.PowerShell,Development,winget
+Microsoft PowerToys,,Microsoft.PowerToys,Utility,winget
+Microsoft Teams,,Microsoft.Teams,Chat,winget
+Microsoft Teams (Personal),,Microsoft.Teams.Free,Chat,winget
+Microsoft Visual Studio Code,,Microsoft.VisualStudioCode,Development,winget
+Microsoft Visual Studio Community 2022,,Microsoft.VisualStudio.2022.Community,Development,winget
+Microsoft Windows Terminal,,Microsoft.WindowsTerminal,Utility,winget
+Microsoft XNA Framework,,Microsoft.XNARedist,Runtime,winget
+Mozilla Firefox,,Mozilla.Firefox,Browser,winget
+Mozilla Firefox ESR,,Mozilla.Firefox.ESR,Browser,winget
+MPC-HC,,clsid2.mpc-hc,Media Player,winget
+Netflix,,9WZDNCRFJ3TJ,Streaming,winget
+NirSoft Advanced Run,,NirSoft.AdvancedRun,Tools,winget
+NirSoft Alternate Stream View ,"Scan your NTFS drive, and find all 
+hidden alternate streams stored in the file system",NirSoft.AlternateStreamView,Tools,winget
+NirSoft App Crash View,Display the details of all application crashes occurred in your system,NirSoft.AppCrashView,Tools,winget
+NirSoft App Read Write Counter,"Counts and displays the current file read / write operations of every 
+application running on your system",NirSoft.AppReadWriteCounter,Tools,winget
+NirSoft BlueScreen View,,NirSoft.BlueScreenView,Utility,winget
+NirSoft Chrome Cache View,,NirSoft.ChromeCacheView,Tools,winget
+NirSoft CSV File View,,NirSoft.CSVFileView,Tools,winget
+NirSoft DNS Lookup View,,NirSoft.DNSLookupView,Tools,winget
+NirSoft Down Tester,,NirSoft.DownTester,Tools,winget
+NirSoft Full Event Log View,,NirSoft.FullEventLogView,Tools,winget
+NirSoft GUI Prop View,Displays extensive information about all windows currently opened on your system,NirSoft.GUIPropView,Tools,winget
+NirSoft Inside Clipboard,,NirSoft.InsideClipboard,Tools,winget
+NirSoft Installed Drivers List,,NirSoft.InstalledDriversList,Tools,winget
+NirSoft Installed Packages View,,NirSoft.InstalledPackagesView,Tools,winget
+NirSoft IP Net Info,,NirSoft.IPNetInfo,Tools,winget
+NirSoft NetB Scanner,,NirSoft.NetBScanner,Tools,winget
+NirSoft NetRouteView,,NirSoft.NetRouteView,Tools,winget
+NirSoft Network Interfaces View,,NirSoft.NetworkInterfacesView,Tools,winget
+NirSoft Network Opened Files,,NirSoft.NetworkOpenedFiles,Tools,winget
+NirSoft Network Usage View,,NirSoft.NetworkUsageView,Tools,winget
+NirSoft NirCmd,,NirSoft.NirCmd,Tools,winget
+NirSoft NK2Edit,,NirSoft.NK2Edit,Tools,winget
+NirSoft Opened Files View,,NirSoft.OpenedFilesView,Tools,winget
+NirSoft Resources Extract,,NirSoft.ResourcesExtract,Tools,winget
+NirSoft Search My Files,,NirSoft.SearchMyFiles,Tools,winget
+NirSoft ShellEx View,,NirSoft.ShellExView,Tools,winget
+NirSoft Simple Program Debugger,,NirSoft.SimpleProgramDebugger,Tools,winget
+NirSoft Sound Volume View,,NirSoft.SoundVolumeView,Tools,winget
+NirSoft Tcp Log View,,NirSoft.TcpLogView,Tools,winget
+NirSoft Turned On Times View,,NirSoft.TurnedOnTimesView,Tools,winget
+NirSoft UninstallView,,NirSoft.UninstallView,Tools,winget
+NirSoft USB Log View,,NirSoft.USBLogView,Tools,winget
+NirSoft Video Cache View,,NirSoft.VideoCacheView,Tools,winget
+NirSoft Volumouse,,NirSoft.Volumouse,Tools,winget
+NirSoft Wake Me On Lan,,NirSoft.WakeMeOnLan,Tools,winget
+NirSoft What Is Hang,,NirSoft.WhatIsHang,Tools,winget
+NirSoft WhoisThisDomain,,NirSoft.WhoisThisDomain,Tools,winget
+NirSoft WIFI Info View,,NirSoft.WifiInfoView,Tools,winget
+NirSoft Wireless Network Watcher,,NirSoft.WirelessNetworkWatcher,Tools,winget
+Notepad++,,Notepad++.Notepad++,Editor,winget
+OpenOffice,,Apache.OpenOffice,Office,winget
+Opera,,Opera.Opera,Browser,winget
+Oracle JDK 22,,Oracle.JDK.22,Runtime,winget
+Paint.NET,,dotPDN.PaintDotNet,Viewer/Editor,winget
+pCloud,,pCloudAG.pCloudDrive,Cloud Storage,winget
+PuTTY,,PuTTY.PuTTY,Utility,winget
+Python 2,,Python.Python.2,Development,winget
+Python 3.9,,Python.Python.3.9,Development,winget
+qBittorrent,,qBittorrent.qBittorrent,Torrent,winget
+Resource Hacker,,AngusJohnson.ResourceHacker,Customizer/Tweaker,winget
+Rufus,,Rufus.Rufus,Boot Media,winget
+Spotify,,Spotify.Spotify,Streaming,winget
+Steam,Gaming platform,Valve.Steam,Games,winget
+TeamViewer,,TeamViewer.TeamViewer,Remote,winget
+TeamViewer Host,,TeamViewer.TeamViewer.Host,Remote,winget
+TechPowerUp GPU-Z,,TechPowerUp.GPU-Z,Utility,winget
+TeraCopy,,CodeSector.TeraCopy,Utility,winget
+Total Commander,,Ghisler.TotalCommander,File Manager,winget
+Twitter,,XP99J3KP4XZ4VV,Social Platform,winget
+Ubisoft Connect,Gaming platform,Ubisoft.Connect,Games,winget
+UniGetUI ,,UniGetUI ,Utility,winget
+VirtualBox,,Oracle.VirtualBox,Virtualization,winget
+VLC media player,,VideoLAN.VLC,Media Player,winget
+WhatsApp,,WhatsApp.WhatsApp,Messaging,winget
+Winamp,,Winamp.Winamp,Audio Player,winget
+WinDbg,,Microsoft.WinDbg,Utility,winget
+WinDirStat,,WinDirStat.WinDirStat,Utility,winget
+WinRAR,,RARLab.WinRAR,Archiver,winget
+WinSCP,,WinSCP.WinSCP,Utility,winget
+WinZip,,Corel.WinZip,Archiver,winget
+XnView,,XnSoft.XnView.Classic,Viewer/Editor,winget
