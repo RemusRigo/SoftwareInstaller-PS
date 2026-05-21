@@ -1,12 +1,13 @@
 #---------------------------------------------------------------------------------------------------------------------------
 # Software Installer
-#  © 2025 Remus Rigo
-# v4.5.20250729                                                              [System.Windows.Forms.MessageBox]::Show("Test")              
+#    © 2025 Remus Rigo
+#       v1.2 2025-07-29                                                     [System.Windows.Forms.MessageBox]::Show("Test")
+#---------------------------------------------------------------------------------------------------------------------------
 
 Clear-Host
 Add-Type -AssemblyName System.Windows.Forms
 [System.Windows.Forms.Application]::EnableVisualStyles()
-$appTitle = "Software Install v4.5 by Remus Rigo"
+$appTitle = "Software Install v1.2 by Remus Rigo"
 
 # --------------------------------------------------------------------------------------------------------------------------
 # Initialize
